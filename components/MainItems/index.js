@@ -23,7 +23,9 @@ const MainItems = (props) => {
 
           <View style={styles.button}>
 
-          <Buttons title="Start the Course" type = ""/>
+            <Buttons title="Start the Course" type = 'secondary'/>
+
+            <Buttons title="Exit from the App" type = 'primary' />
           
           </View>
           

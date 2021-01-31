@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
         fontFamily: 'sans-serif-medium'
       },
       button: {
-        marginTop: '45%'
+        marginTop: '40%',
       }
 });
 

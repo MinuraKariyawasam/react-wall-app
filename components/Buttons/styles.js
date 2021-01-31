@@ -7,7 +7,8 @@ const styles = StyleSheet.create({
         backgroundColor: "#fff",
         borderRadius: 25,
         paddingVertical: 14,
-        paddingHorizontal: 28
+        paddingHorizontal: 28,
+        marginBottom: '4%'
       },
       appButtonText: {
         fontSize: 18,
@@ -16,9 +17,6 @@ const styles = StyleSheet.create({
         alignSelf: "center",
         textTransform: "uppercase"
       },
-     type: {
-       
-     }
 });
 
 export default styles;
